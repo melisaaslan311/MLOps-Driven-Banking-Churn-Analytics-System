@@ -1,0 +1,14 @@
+2026-01-29 21:36:13,689 - INFO - Pipline Started
+2026-01-29 21:36:13,752 - INFO - Extracted 10000 rows
+2026-01-29 21:36:13,786 - INFO - Transform Comleted
+2026-01-29 21:36:13,919 - INFO - Saved CSV
+2026-01-29 21:38:01,141 - INFO - Pipline Started
+2026-01-29 21:38:01,173 - INFO - Extracted 10000 rows
+2026-01-29 21:38:01,198 - INFO - Transform Comleted
+2026-01-29 21:38:01,355 - INFO - Saved CSV
+2026-01-29 21:40:59,430 - INFO - Pipline Started
+2026-01-29 21:40:59,452 - INFO - Extracted 10000 rows
+2026-01-29 21:40:59,471 - INFO - Transform Comleted
+2026-01-29 21:40:59,572 - INFO - Saved CSV
+2026-01-29 21:41:00,880 - INFO - Loaded MySQL
+2026-01-29 21:41:00,880 - INFO - Pipline finished
