@@ -78,6 +78,8 @@ Returns:
 
 * Churn probability
 * Risk classification (Risky / Safe)
+<img width="1600" height="509" alt="image" src="https://github.com/user-attachments/assets/5ff1b801-9be2-4d6d-844d-32b8be47d9d2" />
+<img width="1600" height="324" alt="image" src="https://github.com/user-attachments/assets/57f0b420-7fae-4786-b0d5-ec97a4d85219" />
 
 ---
 
